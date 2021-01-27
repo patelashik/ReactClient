@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactDemo/static/css/main.c0e3c836.chunk.css",
+    "main.js": "/ReactDemo/static/js/main.3ecbaf32.chunk.js",
+    "main.js.map": "/ReactDemo/static/js/main.3ecbaf32.chunk.js.map",
+    "runtime-main.js": "/ReactDemo/static/js/runtime-main.27714a8b.js",
+    "runtime-main.js.map": "/ReactDemo/static/js/runtime-main.27714a8b.js.map",
+    "static/css/2.d34346ea.chunk.css": "/ReactDemo/static/css/2.d34346ea.chunk.css",
+    "static/js/2.4227d846.chunk.js": "/ReactDemo/static/js/2.4227d846.chunk.js",
+    "static/js/2.4227d846.chunk.js.map": "/ReactDemo/static/js/2.4227d846.chunk.js.map",
+    "index.html": "/ReactDemo/index.html",
+    "precache-manifest.bb416818e19d468ed3d09cd879eec241.js": "/ReactDemo/precache-manifest.bb416818e19d468ed3d09cd879eec241.js",
+    "service-worker.js": "/ReactDemo/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/ReactDemo/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.c0e3c836.chunk.css.map": "/ReactDemo/static/css/main.c0e3c836.chunk.css.map",
+    "static/js/2.4227d846.chunk.js.LICENSE.txt": "/ReactDemo/static/js/2.4227d846.chunk.js.LICENSE.txt",
+    "static/media/navlogo.png": "/ReactDemo/static/media/navlogo.7ee134c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27714a8b.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.4227d846.chunk.js",
+    "static/css/main.c0e3c836.chunk.css",
+    "static/js/main.3ecbaf32.chunk.js"
+  ]
+}
